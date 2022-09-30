@@ -1,0 +1,16 @@
+name: GitHub Sponsors Profile Review
+description: Please review my GitHub Sponsors profile on a livestream
+title: "[REVIEW] <profile name here>"
+labels: [gh sponsor review, live stream review]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: GitHub Sponsor profile link
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](http://discord.LTD-cyber-security)
+        Feel free to check out other cool repositories of the LTD-cyber-security Community [here](https://github.com/LTD-cyber-security)
