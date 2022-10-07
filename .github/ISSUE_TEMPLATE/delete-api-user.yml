@@ -1,7 +1,7 @@
-name: LTD-cyber-security API delete
-description: Delete me from the LTD-cyber-security API. By opting-out your previously recorded stats will get deleted as well.
-title: "Please delete me from the LTD-cyber-security API"
-labels: [LTD-cyber-security-API-delete]
+name: nlw-education API delete
+description: Delete me from the nlw-education API. By opting-out your previously recorded stats will get deleted as well.
+title: "Please delete me from the nlw-education API"
+labels: [nlw-education-API-delete]
 body:
   - type: input
     id: discordname
@@ -14,4 +14,4 @@ body:
     attributes:
       value: |
         You can also join our Discord community [here](http://discord)
-        Feel free to check out other cool repositories of the LTD-cyber-security Community [here](https://github.com/LTD-cyber-securityCommunity)
+        Feel free to check out other cool repositories of the nlw-education Community [here](https://github.com/nlw-educationCommunity)
