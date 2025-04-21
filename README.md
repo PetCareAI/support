@@ -1,9 +1,9 @@
-# Estevam-Innovations Community Support
+# LTD-2025-1-Cyber-Security-Project Community Support
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an [issue](https://github.com/Estevam-Innovations/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the Estevam-Innovations GitHub organisation.
+Raise an [issue](https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the LTD-2025-1-Cyber-Security-Project GitHub organisation.
 
 ### Some vague idea of how we could turn this into a support channel
 
@@ -23,19 +23,19 @@ If we could find a really good name for this, we could have a `"support"` reposi
 
 We could then have folks to have their own "support" repository and be able to PR in their contributions!
 
-Please check out the [issue queue](https://github.com/Estevam-Innovations/support/issues) for sticking issues with this and we can all pair on this.
+Please check out the [issue queue](https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues) for sticking issues with this and we can all pair on this.
 
 ## Guide
 
-- Actions go under [issues](https://github.com/Estevam-Innovations/support/issues)
+- Actions go under [issues](https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues)
   - Bugs
   - Add me to the organization
-- Miscellaneous go under [Discussions](https://github.com/Estevam-Innovations/support/discussions)
+- Miscellaneous go under [Discussions](https://github.com/LTD-2025-1-Cyber-Security-Project/support/discussions)
   - Questions
   - Ideas (once discussed, an Issue could be created and linked to the Discussion thread)
   - Showcase of Open Source Portfolios to get feedback from community members.
 
-      Feel free to check out other cool repositories of Alphasians [here](https://github.com/Estevam-Innovations)
+      Feel free to check out other cool repositories of Alphasians [here](https://github.com/LTD-2025-1-Cyber-Security-Project)
 <!--       <a href='https://github.com/Alphasians'>here</a>. -->
 
 ## FAQ
@@ -43,4 +43,4 @@ Please check out the [issue queue](https://github.com/Estevam-Innovations/suppor
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook/Meta](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
   - Learn more on [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 
-- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/Estevam-Innovations/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
+- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
