@@ -12,8 +12,8 @@ jobs:
       with:
         node-version: '14'
 
-    - name: LTD-2025-1-Cyber-Security-Project labels Action
-      uses: LTD-2025-1-Cyber-Security-Project/gh-action-open-source-labels@main
+    - name: PetCareAI labels Action
+      uses: PetCareAI/gh-action-open-source-labels@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         owner-name: 'Alphasians'
